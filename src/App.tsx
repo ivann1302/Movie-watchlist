@@ -1,9 +1,5 @@
 function App() {
-  return (
-    <div>
-      {/* Ваш код здесь */}
-    </div>
-  )
+  return <div>{/* Ваш код здесь */}</div>
 }
 
 export default App
